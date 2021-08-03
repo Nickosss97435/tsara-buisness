@@ -14,7 +14,7 @@ export default class Navbar extends Component {
 <img src={logo} alt="store" className="navbar-brand"/>
 
                 </Link>
-                <h1 className="nav-link-title  mx-auto col-md-6 my-3" >tsata buisness</h1>
+                <h1 className="nav-link-title  mx-auto col-md-6 my-3 text-capitalyse" >tsata buisness</h1>
                 <ul className="navbar-nav ">   
                     <li className="d-flex nav-item ">
                      <Link to="/" className="nav-link me-5">
