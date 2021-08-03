@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tsara-buisness/static/css/main.c07eacdc.chunk.css",
-    "main.js": "/tsara-buisness/static/js/main.bf3d4b91.chunk.js",
-    "main.js.map": "/tsara-buisness/static/js/main.bf3d4b91.chunk.js.map",
+    "main.js": "/tsara-buisness/static/js/main.c2c77bc8.chunk.js",
+    "main.js.map": "/tsara-buisness/static/js/main.c2c77bc8.chunk.js.map",
     "runtime-main.js": "/tsara-buisness/static/js/runtime-main.dd84f637.js",
     "runtime-main.js.map": "/tsara-buisness/static/js/runtime-main.dd84f637.js.map",
     "static/css/2.fb17aa6d.chunk.css": "/tsara-buisness/static/css/2.fb17aa6d.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.fb17aa6d.chunk.css",
     "static/js/2.1fbfe0b4.chunk.js",
     "static/css/main.c07eacdc.chunk.css",
-    "static/js/main.bf3d4b91.chunk.js"
+    "static/js/main.c2c77bc8.chunk.js"
   ]
 }
