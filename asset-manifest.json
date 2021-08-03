@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tsara-buisness/static/css/main.c07eacdc.chunk.css",
+    "main.js": "/tsara-buisness/static/js/main.bf3d4b91.chunk.js",
+    "main.js.map": "/tsara-buisness/static/js/main.bf3d4b91.chunk.js.map",
+    "runtime-main.js": "/tsara-buisness/static/js/runtime-main.dd84f637.js",
+    "runtime-main.js.map": "/tsara-buisness/static/js/runtime-main.dd84f637.js.map",
+    "static/css/2.fb17aa6d.chunk.css": "/tsara-buisness/static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.1fbfe0b4.chunk.js": "/tsara-buisness/static/js/2.1fbfe0b4.chunk.js",
+    "static/js/2.1fbfe0b4.chunk.js.map": "/tsara-buisness/static/js/2.1fbfe0b4.chunk.js.map",
+    "static/js/3.0ad86402.chunk.js": "/tsara-buisness/static/js/3.0ad86402.chunk.js",
+    "static/js/3.0ad86402.chunk.js.map": "/tsara-buisness/static/js/3.0ad86402.chunk.js.map",
+    "index.html": "/tsara-buisness/index.html",
+    "static/css/2.fb17aa6d.chunk.css.map": "/tsara-buisness/static/css/2.fb17aa6d.chunk.css.map",
+    "static/css/main.c07eacdc.chunk.css.map": "/tsara-buisness/static/css/main.c07eacdc.chunk.css.map",
+    "static/js/2.1fbfe0b4.chunk.js.LICENSE.txt": "/tsara-buisness/static/js/2.1fbfe0b4.chunk.js.LICENSE.txt",
+    "static/media/logo.67590124.svg": "/tsara-buisness/static/media/logo.67590124.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd84f637.js",
+    "static/css/2.fb17aa6d.chunk.css",
+    "static/js/2.1fbfe0b4.chunk.js",
+    "static/css/main.c07eacdc.chunk.css",
+    "static/js/main.bf3d4b91.chunk.js"
+  ]
+}
